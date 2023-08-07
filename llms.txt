@@ -1,0 +1,3 @@
+https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/
+
+https://aws.amazon.com/blogs/database/the-role-of-vector-datastores-in-generative-ai-applications/
